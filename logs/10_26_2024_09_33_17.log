@@ -1,0 +1,4 @@
+[ 2024-10-26 09:33:18,169 ] - 20 - root - INFO - Starting data ingestion method
+[ 2024-10-26 09:33:18,193 ] - 23 - root - INFO - Read dataset as dataframe
+[ 2024-10-26 09:33:18,203 ] - 29 - root - INFO - Train / Test split initialized
+[ 2024-10-26 09:33:18,215 ] - 36 - root - INFO - Data Ingestion Completed
